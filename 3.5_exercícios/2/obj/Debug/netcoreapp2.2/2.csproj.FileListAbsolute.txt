@@ -1,0 +1,11 @@
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.csprojAssemblyReference.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.csproj.CoreCompileInputs.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.AssemblyInfoInputs.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.AssemblyInfo.cs
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\bin\Debug\netcoreapp2.2\2.deps.json
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\bin\Debug\netcoreapp2.2\2.runtimeconfig.json
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\bin\Debug\netcoreapp2.2\2.runtimeconfig.dev.json
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\bin\Debug\netcoreapp2.2\2.dll
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\bin\Debug\netcoreapp2.2\2.pdb
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.dll
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\3.5_exercícios\2\obj\Debug\netcoreapp2.2\2.pdb
