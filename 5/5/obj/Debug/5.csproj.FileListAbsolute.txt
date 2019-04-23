@@ -1,0 +1,15 @@
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\bin\Debug\5.exe.config
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\bin\Debug\5.exe
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\bin\Debug\5.pdb
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\MainWindow.g.cs
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\App.g.cs
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5_MarkupCompile.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5_MarkupCompile.lref
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\MainWindow.baml
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.g.resources
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.exe
+C:\Users\Magico\Documents\C#\apostila-csharp-orientacao-objeto-exercicios\5\5\obj\Debug\5.pdb
