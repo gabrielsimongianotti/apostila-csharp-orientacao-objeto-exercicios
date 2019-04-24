@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\4_exercícios",
-    "\\4_exercícios\\6"
+    "\\4_exercícios\\6",
+    "\\5",
+    "\\5\\5",
+    "\\5\\5.1",
+    "\\5\\5.1\\5.1"
   ],
-  "SelectedNode": "\\4_exercícios\\6\\Program.cs",
+  "SelectedNode": "\\5\\5.1\\5.1\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
